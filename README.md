@@ -8,9 +8,9 @@
 
 ## :electric_plug: Built with
 
-- VueJS >= 2.6.10
-- Vue-router >= 3.0.3
-- NPM >= 6.4.1
+- VueJS -> 2.6.10
+- Vue-router -> 3.0.3
+- NPM -> 6.4.1
 
 <hr />
 
