@@ -1,29 +1,25 @@
-# vue-project
+<p align="center">
+<img src="src/assets/logo.png" />
+</p>
 
-## Project setup
-```
-npm install
-```
+# TodoList <br/>
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+### This is a study project only. :books:
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## :electric_plug: Built with
 
-### Run your tests
-```
-npm run test
-```
+- VueJS >= 2.6.10
+- Vue-router >= 3.0.3
+- NPM >= 6.4.1
 
-### Lints and fixes files
-```
-npm run lint
-```
+<hr />
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+<img src="src/assets/todo.png" />
+
+<hr />
+
+:newspaper: <a href="https://vuejs.org">Learn about how start with Vue here.</a>
+
+<hr/>
+
+### <a href="https://www.linkedin.com/in/stefanosaffran/">Connect me in LinkedIn</a> | <a href="https://stefanosaffran.com">Click here to go to my website</a>
