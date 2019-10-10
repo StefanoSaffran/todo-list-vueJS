@@ -18,8 +18,8 @@
 
 <hr />
 
-:newspaper: <a href="https://vuejs.org">Learn about how start with Vue here.</a>
+:newspaper: <a href="https://vuejs.org">Learn about how to start with Vue here.</a>
 
 <hr/>
 
-### <a href="https://www.linkedin.com/in/stefanosaffran/">Connect me in LinkedIn</a> | <a href="https://stefanosaffran.com">Click here to go to my website</a>
+### <a href="https://www.linkedin.com/in/stefanosaffran/">LinkedIn</a> | <a href="https://stefanosaffran.com">Website</a>
